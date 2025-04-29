@@ -49,16 +49,4 @@ type(True) = bool
 type(3.8) = float
 ```
 
-Citations:
-[1] https://logbook.readthedocs.io/en/stable/quickstart.html
-[2] https://malinlisten.weebly.com/uploads/2/6/8/5/26857710/mall_fo%CC%88r_loggbok.pdf
-[3] https://www.reddit.com/r/Python/comments/w6qvbm/scheduler_with_an_api_a_working_template_to_get/?tl=sv
-[4] https://www.templatemonster.com/sv/planners/353520.html
-[5] https://trinket.io/python/d60650f4a3
-[6] https://tie.koodariksi.fi/grunder/15
-[7] https://gist.github.com/xeoncross/bb145faaec480498b916
-[8] https://www.programmerapython.se/loopar-uppgift-3/
-[9] https://www.pluggakuten.se/trad/sannolikhet-simulera-tarningskast/
-[10] https://eddler.se/lektioner/simulera-tarningskast-programmeringsovning/
-
 ---
